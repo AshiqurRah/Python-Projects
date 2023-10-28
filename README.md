@@ -16,7 +16,7 @@ Python is a versatile and powerful programming language known for its simplicity
 
 ### Beginner
 
-#### Introduction to Python
+- [ ] **Introduction to Python**
 - [x] **Setting up Python:** Install Python on your system and set up a development environment.
 - [x] **Writing your first Python program:** Create a simple "Hello, World!" program to get started.
 - [x] **Variables and data types:** Learn about variables, data types (integers, floats, strings), and variable assignments.
